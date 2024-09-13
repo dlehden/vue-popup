@@ -15,8 +15,8 @@ export default {
   data() {
     return {
       items: [
-        { code: 'Code1', name: 'Name1' },
-        { code: 'Code2', name: 'Name2' },
+        { code: '코드1', name: 'Name1' },
+        { code: '코드2', name: 'Name2' },
         { code: 'Code3', name: 'Name3' }
       ]
     };
